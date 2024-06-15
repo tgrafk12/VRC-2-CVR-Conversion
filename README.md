@@ -140,8 +140,7 @@ I'm not going to sugar coat my TOS. I have it simple for a reason, if you take a
 
 # Where to Contact?
 I will have a Google Fourm open later today for people to enter in their information. I'll really only ask for what you need done on the avatar, how I can contact you (Discord username), and most likely will ask for your ChilloutVR name, and SteamID to uphold my TOS. 
-
-*The above line in this readme.md will change to a Google Forum link.*
+https://forms.gle/TL1NRrKryCXJF8fW9
 
 # Where to Pay
 ### PayPal
