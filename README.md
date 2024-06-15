@@ -16,7 +16,7 @@ If you require an upload, I will refuse to take your password (ABI Content Creat
 
 
 ## Converting an Avatar (Prices)
-Flat $10 for each Avatar (for now, a max of 2 per user so I'm not overworked)
+Flat $5 for each Avatar (for now, a max of 2 per user so I'm not overworked)
 
 Included in flat price
 - Disk Space (Dedicated Unity Project for me to edit for you)
