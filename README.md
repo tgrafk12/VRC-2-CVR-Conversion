@@ -138,6 +138,10 @@ I'm not going to sugar coat my TOS. I have it simple for a reason, if you take a
 8. Conversations with client will be on Discord.
    - For client-transaction safety, any messages you edit or delete are saved on MY end. I do this to solidify evidence of any changes we discuss in the Direct Messages. (This is NOT used against you for any discrimination or to get more money out of the client, I really try my best to give you a better chance at value)
 
+# Where to Contact?
+I will have a Google Fourm open later today for people to enter in their information. I'll really only ask for what you need done on the avatar, how I can contact you (Discord username), and most likely will ask for your ChilloutVR name, and SteamID to uphold my TOS. 
+
+*The above line in this readme.md will change to a Google Forum link.*
 
 # Where to Pay
 ### PayPal
