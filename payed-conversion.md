@@ -24,6 +24,9 @@ Included in flat price
 - Converting animations and Animator layers to be used in CVR (Does not include GoGoLoco, as there's not a working way for it yet. Down the line this will be included)
 - Adding Essential components for Avatar upload (Eye placement, Mouth Visimes, Advanced Avatar Selection, Tagging, etc.) *Custom eye blinking animations and gestures are included, please make sure to tell me if this is the case, otherwise you might have a weird looking avatar when speaking or looking around!*
 - Custom Avatar Upload Image (A SFW image, *can be slightly suggestive*)
+
+When I am finished with your Avatar, you may choose one, or both of the selections I provide you...
+
 - A UnityPackage with the converted avatar (Ether Google Dive link, or inside Discord)
 
 Or
@@ -35,7 +38,7 @@ Or
 ChilloutVR does not support Physbones. 
 
 Physbones are a VRChat only script that is only associated with VRChat, and is not distributed to any other VR-Platform. This means, that we need to use other scripts to add physics.
-You may choose to use ether Dynamic Bones (Not Recommended but affordable) or MagicaCloth (Recommended)
+The only Physics editing scripts that are whitelisted for CVR Avatars are ether Dynamic Bones (Not Recommended but affordable) or MagicaCloth (Recommended)
 
 
 ### +$4 to total price For Dynamic Bones - Not Recommended for compatibility on any avatar, but is an affordable option.
@@ -89,7 +92,7 @@ In ChilloutVR, the game gives users an option to give other users privite access
 
 However, This does mean that I (Zeia Nala) "own" the avatar. **! Which can run into Avatar Creator TOS !** (*see [TOS](README.md#my-tos) #2*) If I were to upload your avatar to my account, I personally will refuse to use it in public worlds (It is your property, which I will not touch or claim to own personally). If the client gives me consent to using the avatar in a showcase of my conversion work, or to showcase to other future clients as an example of the conversion work I am capable of.
 
-Down the line, there is an option to give you the avatar entirely, but that feature is on the back burner and will be released eventually. **It would be an honor of mine, to fully give access to the client once that feature is released.** Ether I will mention it to all my clients who have had an avatar uploaded by me, once the feature is released, or they can contact me about it and I will give them full access.
+Down the line, there will be a feature available for all users on ChilloutVR to transfer access to the avatar entirely. The feature is on the back burner and will be released publicly, *eventually*. **It would be an honor of mine, to fully give access to the client once that feature is released.** Ether I will mention it to all my clients who have had an avatar uploaded by me, or they can contact me about it and I will give them that full transfer to the avatar.
 
 
 > [!IMPORTANT] 
@@ -139,7 +142,8 @@ I'm not going to sugar coat my TOS. I have it simple for a reason, if you take a
    - For client-transaction safety, any messages you edit or delete are saved on MY end. I do this to solidify evidence of any changes we discuss in the Direct Messages. (This is NOT used against you for any discrimination or to get more money out of the client, I really try my best to give you a better chance at value)
 
 # Where to Contact?
-I will have a Google Fourm open later today for people to enter in their information. I'll really only ask for what you need done on the avatar, how I can contact you (Discord username), and most likely will ask for your ChilloutVR name, and SteamID to uphold my TOS. 
+I will have a Google Fourm open for people to enter in their information. I'll really only ask for what you need done on the avatar, how I can contact you (Discord username), and most likely will ask for your ChilloutVR name, and SteamID to uphold my TOS. 
+Please allow me up to 24-48 hours to check my emails and responses.
 https://forms.gle/TL1NRrKryCXJF8fW9
 
 # Where to Pay
