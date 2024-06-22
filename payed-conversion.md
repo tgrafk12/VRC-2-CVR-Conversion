@@ -31,7 +31,7 @@ When I am finished with your Avatar, you may choose one, or both of the selectio
 
 Or
 
-- A dedicated upload to "*my*" account, and avatar is Shared to you. (See: [Uploading An Avatar To ChilloutVR](README.md#UPLOADING-AN-AVATAR-TO-CHILLOUTVR) for more details) 
+- A dedicated upload to "*my*" account, and avatar is Shared to you. (See: [Uploading An Avatar To ChilloutVR](payed-conversion.md#UPLOADING-AN-AVATAR-TO-CHILLOUTVR) for more details) 
 
 ## Adding Physics
 
@@ -83,14 +83,14 @@ It will look a little like this:
 +/- $amount = "agreed reason for price adjustment"
 Total Price with added reason above = $total
 ```
-The listed extra work is something I'm not entitled to do for you, but if I'm bored enough, and the price is fair, I will be totally down to do it. (I might feel generous and do the extra mile work for you for no added charge. *See [TOS](README.md#my-tos)*)
+The listed extra work is something I'm not entitled to do for you, but if I'm bored enough, and the price is fair, I will be totally down to do it. (I might feel generous and do the extra mile work for you for no added charge. *See [TOS](payed-conversion.md#my-tos)*)
 
 
 # UPLOADING AN AVATAR TO CHILLOUTVR
 
 In ChilloutVR, the game gives users an option to give other users privite access to other's content. Meaning you access to the avatar (Avatar Sharing) privitely instead if it being public unlike VRChat. This option gives you access to wear the avatar and enjoy it as you would normally without people trying to clone it off you. 
 
-However, This does mean that I (Zeia Nala) "own" the avatar. **! Which can run into Avatar Creator TOS !** (*see [TOS](README.md#my-tos) #2*) If I were to upload your avatar to my account, I personally will refuse to use it in public worlds (It is your property, which I will not touch or claim to own personally). If the client gives me consent to using the avatar in a showcase of my conversion work, or to showcase to other future clients as an example of the conversion work I am capable of.
+However, This does mean that I (Zeia Nala) "own" the avatar. **! Which can run into Avatar Creator TOS !** (*see [TOS](payed-conversion.md#my-tos) #2*) If I were to upload your avatar to my account, I personally will refuse to use it in public worlds (It is your property, which I will not touch or claim to own personally). If the client gives me consent to using the avatar in a showcase of my conversion work, or to showcase to other future clients as an example of the conversion work I am capable of.
 
 Down the line, there will be a feature available for all users on ChilloutVR to transfer access to the avatar entirely. The feature is on the back burner and will be released publicly, *eventually*. **It would be an honor of mine, to fully give access to the client once that feature is released.** Ether I will mention it to all my clients who have had an avatar uploaded by me, or they can contact me about it and I will give them that full transfer to the avatar.
 
