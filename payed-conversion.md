@@ -12,7 +12,7 @@ I have been doing Unity work since 2019, and love/hate (hate cause Unity loves t
 
 My goal at the end of the day is to give YOU an avatar that you can work with on your own, or an avatar you can wear in ChilloutVr.
 
-If you require an upload, I will refuse to take your password (ABI Content Creation Kit Master Key) as a way to give you the avatar. (See: [Uploading An Avatar To ChilloutVR](README.md#UPLOADING-AN-AVATAR-TO-CHILLOUTVR)) 
+If you require an upload, I will refuse to take your password (ABI Content Creation Kit Master Key) as a way to give you the avatar. (See: [Uploading An Avatar To ChilloutVR](payed-conversion.md#UPLOADING-AN-AVATAR-TO-CHILLOUTVR)) 
 
 
 ## Converting an Avatar (Prices)
