@@ -61,7 +61,7 @@ Includes:
 - MagicaCloth Physics for each part of your avatar that you mention.
 **You MUST mention in the work order where you want Physics**.
  (Breasts, Butt, Hair, etc.)
-2 Hair meshes/armature structures are included with the Initial price, +$1 for each additional hair mesh/armature *(This is to keep things optimised and let everyone see your avatar at its best possible state.)*
+8 Hair meshes/armature structures are included with the Initial price, +$1 for each additional hair mesh/armature *(This is to keep things optimised and let everyone see your avatar at its best possible state.)*
 - MagicaCloth Colliders for each Cloth component. - These will be added to the best of my ability **See photos** *(if the rigging is not met to my standards which are pretty high cause I'm very picky about avatars. The extra work may be brought up with person on purchase) `It's not required, but HIGHLY recommended to get the best placement of physics for better user-2-user interaction/collisions`*
 
 (The price for MagicaCloth might be less expensive later on but 95% of the $8 goes towards paying the maker of MagicaCloth to support their work further, and the 5% is the time and effort it takes to manually add colliders and mess with physics. *This can take upwards of 4 or so hours dedicated to one avatar*)
